@@ -4,15 +4,16 @@
  <a href="mailto:anaraquelpmatos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></ a>
 </p>
 
+ <img src="https://media2.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76112c8d902709075fae6018c9339f17709588f4e24f&rid=giphy.gif&ct=s" align="right" width="300px">
+ 
  ## My name is Ana Raquel Matos
- <img src="https://media2.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76112c8d902709075fae6018c9339f17709588f4e24f&rid=giphy.gif&ct=s" align="right" width="200px">
 <p>
 💻 I’m a Computer Technician
 </p>
 <p>
 📚 I'm currently studying to become a Full-stack web developer
 </p>
-
+<br>
 <div>
 <a href="https://github.com/anaraquelmatos">
 <img height="180em width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquelmatos&layout=compact&langs_count=7"/>
