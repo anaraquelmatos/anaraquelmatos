@@ -5,7 +5,7 @@
 </p>
 
  ## My name is Ana Raquel Matos
- <img src="https://media2.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76112c8d902709075fae6018c9339f17709588f4e24f&rid=giphy.gif&ct=s" align="right" width="350px">
+ <img src="https://media2.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76112c8d902709075fae6018c9339f17709588f4e24f&rid=giphy.gif&ct=s" align="right" width="200px">
 <p>
 💻 I’m a Computer Technician
 </p>
