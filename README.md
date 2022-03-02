@@ -22,7 +22,7 @@
 
 <a href="https://wakatime.com/@26671c9b-b35f-41ad-9a20-ec42eca7c9b0"><img src="https://wakatime.com/badge/user/26671c9b-b35f-41ad-9a20-ec42eca7c9b0.svg" alt="Total time coded since Jan 17 2022" /></a>
 
-<a href="https://wakatime.com/@anaraquelmatos" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=anaraquelmatos&layout=compact&langs_count=6&theme=blueberry" alt="Wakatime weekly coding actitvity languages" /></a>
+<a href="https://wakatime.com/@anaraquelmatos" title="Data update every midnight"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=anaraquelmatos&layout=compact&langs_count=6&theme=blueberry" alt="Wakatime weekly coding actitvity languages" /></a>
 
 
 
