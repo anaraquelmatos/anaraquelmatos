@@ -5,6 +5,7 @@
 </p>
 
  ## My name is Ana Raquel Matos
+ <img src="https://media2.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76112c8d902709075fae6018c9339f17709588f4e24f&rid=giphy.gif&ct=s" align="right" width="350px">
 <p>
 💻 I’m a Computer Technician
 </p>
@@ -14,14 +15,14 @@
 
 <div>
 <a href="https://github.com/anaraquelmatos">
-<img height="180em width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquelmatos&layout=compact&langs_count=7&theme=blueberry"/>
+<img height="180em width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquelmatos&layout=compact&langs_count=7"/>
 </div>
 
 ## Coding Activity
 
 <a href="https://wakatime.com/@26671c9b-b35f-41ad-9a20-ec42eca7c9b0"><img src="https://wakatime.com/badge/user/26671c9b-b35f-41ad-9a20-ec42eca7c9b0.svg" alt="Total time coded since Jan 17 2022" /></a>
 
-<a href="https://wakatime.com/@anaraquelmatos" title="Data update every midnight"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=anaraquelmatos&layout=compact&langs_count=6&theme=blueberry" alt="Wakatime weekly coding actitvity languages" /></a>
+<a href="https://wakatime.com/@anaraquelmatos" title="Data update every midnight"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=anaraquelmatos&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 
 
