@@ -11,11 +11,14 @@
 <p>
 💻 I’m a Computer Technician
 </p>
+
 <p>
 📚 I'm currently studying to become a Full-Stack Web Developer
 </p>
 <br>
 
+ <img src="https://media.giphy.com/media/8SRqnPebX1H8lQy5YR/giphy.gif" align="right" width="250px"/>
+ 
 <div>
 <a href="https://github.com/anaraquelmatos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaraquelmatos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" height="160px", width="440px" />
