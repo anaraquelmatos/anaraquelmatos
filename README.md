@@ -9,7 +9,7 @@
 💻 I’m a Computer Technician
 </p>
 <p>
-📚 I'm currently studying to become a Full Stack Web Developer
+📚 I'm currently studying to become a Full-Stack Web Developer
 </p>
 <br>
 
