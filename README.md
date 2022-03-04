@@ -4,7 +4,7 @@
  <a href="mailto:anaraquelpmatos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></ a>
 </p>
  
- <img src="https://media.giphy.com/media/GgcetQpEbCzQwPKzqe/giphy.gif" align="left" width="40px">
+ <img src="https://media.giphy.com/media/GgcetQpEbCzQwPKzqe/giphy.gif" align="left" width="35px">
  
  ## My name is Ana Raquel Matos 
  
