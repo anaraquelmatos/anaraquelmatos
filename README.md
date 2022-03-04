@@ -15,13 +15,13 @@
 
 <div>
 <a href="https://github.com/anaraquelmatos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaraquelmatos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" height="160px", width="400px" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquelmatos&layout=compact&langs_count=7&theme=cobalt" height="160px", width="400px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaraquelmatos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" height="160px", width="440px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquelmatos&layout=compact&langs_count=7&theme=cobalt" height="160px", width="440px" />
 </div>
 
 ## Coding Activity
 <div>
-<a href="https://wakatime.com/@anaraquelmatos" title="Data update every midnight"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=anaraquelmatos&layout=compact&langs_count=6&theme=cobalt" alt="Wakatime weekly coding actitvity languages" /></a>
+<a href="https://wakatime.com/@anaraquelmatos" title="Data update every midnight"><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=anaraquelmatos&layout=compact&langs_count=6&theme=cobalt" alt="Wakatime weekly coding actitvity languages"/></a>
  </div>
 
 
