@@ -5,7 +5,7 @@
  
 
   
-My name is Ana Raquel Matos. I'm a Computer Technician and I'm currently studying to become a Full-Stack Web Developer
+My name is Ana Raquel Matos. I'm a Computer Technician and I'm currently studying to become a Full-Stack Web Developer.
 
 <br>
 <div>
