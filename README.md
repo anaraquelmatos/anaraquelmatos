@@ -8,10 +8,10 @@
 My name is Ana Raquel Matos. I'm a Computer Technician and I'm currently studying to become a Full-Stack Web Developer.
 
 <br>
-<div>
+<div style="padding-top:20px;">
 <a href="https://github.com/anaraquelmatos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaraquelmatos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" height="160px", width="400px" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquelmatos&layout=compact&langs_count=7&theme=cobalt" height="160px", width="400px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaraquelmatos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquelmatos&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ## Coding Activity
