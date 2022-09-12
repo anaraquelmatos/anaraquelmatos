@@ -24,7 +24,7 @@ My name is Ana Raquel Matos. I'm a Computer Technician and I'm currently studyin
 
  ## 📩 How to reach me
 <p>
- <a href="https://www.linkedin.com/in/ana-raquel-matos-1055857b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/anaraquelmatos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:anaraquelpmatos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></ a>
 </p>
 
