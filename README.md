@@ -1,8 +1,9 @@
 # Welcome to my profile! <img src="https://media.giphy.com/media/GgcetQpEbCzQwPKzqe/giphy.gif" align="left" width="70px">
 <br>
 
- - I'm a Full-Stack Web Developer
- - I'm always looking to learn new things
+ - 💻 I'm a Full Stack Web Developer
+ - 👀 Learning new things is one of my greatest pleasures
+ - ☕ Drinking coffee all the time is a rule
 
 <br>
 <div style="padding-top:20px;">
@@ -30,6 +31,8 @@
    <img lign="left" src="https://user-images.githubusercontent.com/98192875/189570902-dab43c40-7d54-4313-b945-6a6ac78e23b1.png" alt="TypeScript" width="40"/>
    <img lign="left" src="https://user-images.githubusercontent.com/98192875/189571025-b0be4899-55d9-44c6-ba1a-bef80906789f.png" alt="Docker" width="40"/>
    <img lign="left" src="https://user-images.githubusercontent.com/98192875/189571147-4f455a55-7b43-434b-ae6c-46ce0af81a52.png" alt="PostgresSQL" width="40"/>
+   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40"/>
    <img lign="left" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="Cypress" width="40"/>
  </div>
 
