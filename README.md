@@ -1,7 +1,7 @@
 # Welcome to my profile! <img src="https://media.giphy.com/media/GgcetQpEbCzQwPKzqe/giphy.gif" align="left" width="70px">
 <br>
 
- - 💻 I'm a Full Stack Web Developer
+ - 💻 I'm a Full Stack Developer
  - 👀 Learning new things is one of my greatest pleasures
  - ☕ Drinking coffee all the time is a rule
 
